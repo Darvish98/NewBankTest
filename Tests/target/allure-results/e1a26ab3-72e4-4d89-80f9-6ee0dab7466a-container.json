@@ -1,0 +1,1 @@
+{"uuid":"e1a26ab3-72e4-4d89-80f9-6ee0dab7466a","name":"Bank.BaseTest.end","children":["3d705404-22f8-46b2-91ee-b5261afde508"],"description":"","befores":[],"afters":[{"name":"end","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1598188063285,"stop":1598188063285}],"links":[],"start":1598188063285,"stop":1598188063285}

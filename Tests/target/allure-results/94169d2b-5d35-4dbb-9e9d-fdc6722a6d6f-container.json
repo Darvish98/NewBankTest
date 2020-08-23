@@ -1,0 +1,1 @@
+{"uuid":"94169d2b-5d35-4dbb-9e9d-fdc6722a6d6f","name":"Bank.BankTests.start","children":["5b9cb11d-575c-48fe-8f4c-3dd139b4d7de"],"description":"","befores":[{"name":"start","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1598188063288,"stop":1598188063611}],"afters":[],"links":[],"start":1598188063288,"stop":1598188063611}
